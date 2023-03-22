@@ -1,0 +1,14 @@
+Q: What is React?
+A: It's a JavaScript library with many functionalities.
+
+Q: Which techs should a junior developer learn?
+A: Usually, we recommend: HTML, CSS, JavaScript, TypeScript and React. Git & GitHub if you want to save your projects.
+
+Q: Who is your favorite programming teacher?
+A: I guess it's Gustavo Guanabara.
+
+Q: Would you recommend him to anyone?
+A: Of course, I would and I do.
+
+Q: Any other tools besides those mentioned before?
+A: I'd recommend some Design Tools, such as Figma and Photoshop.
